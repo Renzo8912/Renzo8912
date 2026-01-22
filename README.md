@@ -10,7 +10,8 @@ I am still learning n8n, LineGraph, Orange and many more soon to IoT (Excited ab
 
 I prioritize my academics at the time of writing this but I do look at my linkedin notifications if you want to reach out.
 
-Fun fact: I used to aspire to be a pilot but ended up here in programming, That dream is still alive and I am working on it.
+Fun fact: Since March 25th 2020, I have been recording every travel history, 
+my travel history is now 900+ as of January 2026 complete with timestamps and the number of times I go to university.
 
 
 <!--
